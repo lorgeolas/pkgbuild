@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Install LorgOS Debug
+Comment=Installer for LorgOS debug
+GenericName=System Installer
+Keywords=calamares;system;installer;
+Exec=/usr/bin/calamares_polkit %f -d
+Icon=calamares
+Terminal=false
+Categories=System;
+StartupNotify=true
+
