@@ -60,7 +60,7 @@ source=("calamares::https://github.com/lorgeolas/calamares/archive/refs/tags/$pk
 	"calamares_polkit")
 
 sha256sums=('180550c9a45ed3acf48776901a701cc3ea8a0fe6f2e363a5399035450529a229'
-            '6459ecff5098547b7bc4abdcd810a440a549e265faf7e5dc22af98ecc31dcf02'
+            '0cf7c3635fca3bb61db59231a0776de25247b26b3e048c0b00a3ccafbdcd90ee'
             'cec894efaf4184ed282814a00d6e675d743c39a0a7dea756724fecbb24ca7eb3')
 
 prepare() {

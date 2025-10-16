@@ -1,7 +1,8 @@
 #!/bin/bash
 #https://wiki.archlinux.org/index.php/DeveloperWiki:Building_in_a_Clean_Chroot
 
-destiny="$HOME/lorgos_repo/x86_64/"
+#destiny="$HOME/lorgos_repo/x86_64/"
+destiny="/opt/buildit/lorgos/lorgos_repo/x86_64/"
 
 search1="calamares"
 search=$search1
